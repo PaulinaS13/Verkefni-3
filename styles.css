@@ -1,0 +1,160 @@
+.haus{
+    background-color:rgb(253, 105, 36);
+    font-size: 2em;
+}
+ .byrjun{
+    font-size: 1.5em;
+ }
+ .moveme{
+    float:right;
+    font-size: 2em;
+ }
+.bottom{
+    background-color:rgb(253, 105, 36);
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+html, body {
+    height: 110%;
+}
+#container {
+    mid-height: 110%;
+}
+#main {
+    overflow: auto;
+    padding-botton: 110px;
+}
+#footer{
+    background-color:coral;
+    position:relative;
+    height:60px;
+    margin-top: 110px;
+    clear: both;
+
+
+}
+.le{
+    float:left;
+}
+
+.begin{
+    background-color: rgb(226, 214, 43);
+
+}
+
+.a{
+    background-color: rgb(181, 210, 76);
+    }
+    .b{
+    background-color: rgb(181, 210, 76);
+    }
+    .c{
+    background-color: rgb(181, 210, 76);
+    }
+    .d{
+        background-color: rgb(181, 210, 76);
+    }
+    .e{
+        background-color: rgb(181, 210, 76);
+    }
+    .f{
+        background-color: rgb(181, 210, 76);
+    }
+    .g{
+        background-color: rgb(181, 210, 76);
+    }
+    .h{
+        background-color: rgb(181, 210, 76);
+    }
+    .i{
+        background-color: rgb(181, 210, 76);
+    }
+    .j{
+        background-color: rgb(181, 210, 76);
+    }
+
+    * {
+        margin: 0;
+        padding: 0;
+    }
+    html, body {
+        height: 110%;
+    }
+    #container {
+        mid-height: 110%;
+    }
+    #main {
+        overflow: auto;
+        padding-botton: 110px;
+    }
+    #bækur{
+        background-color:rgb(226, 214, 43);
+        position:relative;
+        height:60px;
+        margin-top: 110px;
+        clear: both;
+    }
+   
+   
+    .könnun{
+        background-color: rgb(178, 40, 68);
+        font-size: 1.5em;
+    }   
+
+    * {
+        margin: 0;
+        padding: 0;
+    }
+    html, body {
+        height: 110%;
+    }
+    #container {
+        mid-height: 110%;
+    }
+    #main {
+        overflow: auto;
+        padding-botton: 110px;
+    }
+    #könnun{
+        background-color:rgb(178, 40, 68);
+        position:relative;
+        height:60px;
+        margin-top: 110px;
+        clear: both;
+    }
+
+    .um{
+        background-color:aqua
+    }
+
+    .m{
+        font-size: 1.5em;
+    }
+
+     .dæmi{
+        font-size: 1.5em;
+     }
+
+    * {
+        margin: 0;
+        padding: 0;
+    }
+    html, body {
+        height: 110%;
+    }
+    #container {
+        mid-height: 110%;
+    }
+    #main {
+        overflow: auto;
+        padding-botton: 110px;
+    }
+    #Um{
+        background-color:aqua;
+        position:relative;
+        height:60px;
+        margin-top: 110px;
+        clear: both;
+    }
